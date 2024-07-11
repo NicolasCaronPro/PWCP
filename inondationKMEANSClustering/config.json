@@ -1,0 +1,25 @@
+{
+    "PROBFIRE": true,
+    "departements": [
+        "departement-25-doubs"
+    ],
+    "kernel": "same",
+    "smooth": false,
+    "top3_neighbord": false,
+    "datasetVersion": "innondationKMEANSClustering",
+    "NORMALIZE": false,
+    "evaluationCluster": [],
+    "CALIBRATOR": "sigmoid",
+    "STANDARDIZARTION": false,
+    "SEQLEN": 1,
+    "offset": 0,
+    "groupingCluster": false,
+    "probFireMaxValue": 2.666666666666666,
+    "n_class": 5,
+    "logloss_2022": 1.438163489462754,
+    "fireLogLoss_2022": 3.343147699143473,
+    "ECE_bins": 16,
+    "ECE_val": 9.331778646601391,
+    "logloss_2023": 1.4569289742656601,
+    "fireLogLoss_2023": 3.0855760346530166
+}

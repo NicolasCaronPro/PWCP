@@ -1,0 +1,31 @@
+{
+    "PROBFIRE": true,
+    "departements": [
+        "departement-01-ain",
+        "departement-25-doubs",
+        "departement-69-rhone",
+        "departement-78-yvelines"
+    ],
+    "kernel": "same",
+    "smooth": false,
+    "top3_neighbord": false,
+    "datasetVersion": "KMEANSClusteringDep",
+    "NORMALIZE": true,
+    "evaluationCluster": [],
+    "CALIBRATOR": "sigmoid",
+    "STANDARDIZARTION": false,
+    "sinisters": [
+        "NATURELSFire"
+    ],
+    "groupingCluster": true,
+    "n_class": 5,
+    "rmseProba": 0.0034564483225514196,
+    "logloss_NATURELSFire": 0.5078380176043807,
+    "fireLogLoss_NATURELSFire": 0.4903819602222585,
+    "ECE_binsNATURELSFire": 17,
+    "ECE_valNATURELSFire": 2.307824239293433,
+    "logloss_NATURELSFiretrain": 0.5070144054272059,
+    "fireLogLoss_NATURELSFiretrain": 0.5250643006153167,
+    "ECE_binsNATURELSFiretrain": 18,
+    "ECE_valNATURELSFiretrain": 2.3105359708763675
+}

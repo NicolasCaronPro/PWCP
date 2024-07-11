@@ -1,0 +1,26 @@
+{
+    "PROBFIRE": true,
+    "departements": [
+        "departement-01-ain",
+        "departement-25-doubs",
+        "departement-78-yvelines"
+    ],
+    "kernel": "same",
+    "smooth": false,
+    "top3_neighbord": true,
+    "datasetVersion": "without_2023_new_dataset",
+    "NORMALIZE": true,
+    "evaluationCluster": [],
+    "CALIBRATOR": "sigmoid",
+    "STANDARDIZARTION": false,
+    "SEQLEN": 1,
+    "offset": 0,
+    "probFireMaxValue": 16.611919272290947,
+    "n_class": 5,
+    "logloss_2022": 0.5417991295456389,
+    "fireLogLoss_2022": 0.7102897321906573,
+    "ECE_bins": 306,
+    "ECE_val": 4.605625792675784,
+    "logloss_2023": 0.5437548495520692,
+    "fireLogLoss_2023": 0.7169254094542865
+}

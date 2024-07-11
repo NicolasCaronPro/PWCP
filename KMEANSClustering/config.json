@@ -1,0 +1,38 @@
+{
+    "PROBFIRE": true,
+    "departements": [
+        "departement-01-ain",
+        "departement-25-doubs",
+        "departement-69-rhone",
+        "departement-78-yvelines"
+    ],
+    "kernel": "same",
+    "smooth": false,
+    "top3_neighbord": false,
+    "datasetVersion": "KMEANSClustering",
+    "NORMALIZE": true,
+    "evaluationCluster": [],
+    "CALIBRATOR": "sigmoid",
+    "STANDARDIZARTION": false,
+    "sinisters": [
+        "NATURELSFire"
+    ],
+    "groupingCluster": false,
+    "n_class": 5,
+    "loglossFor1NATURELSFiretrain": 0.45687477440167246,
+    "fireLogLossFor1NATURELSFiretrain": 1.0009031445702292,
+    "ECE_binsFor1NATURELSFiretrain": 124,
+    "ECE_valFor1NATURELSFiretrain": 1.315261523429497,
+    "loglossFor1NATURELSFiretest": 0.44973742182537824,
+    "fireLogLossFor1NATURELSFiretest": 1.0333635229870877,
+    "ECE_binsFor1NATURELSFiretest": 156,
+    "ECE_valFor1NATURELSFiretest": 1.3382138393289171,
+    "loglossFor1NATURELSFire69": 0.33727021770382887,
+    "fireLogLossFor1NATURELSFire69": 1.421028301436069,
+    "ECE_binsFor1NATURELSFire69": 107,
+    "ECE_valFor1NATURELSFire69": 1.5555735187133113,
+    "loglossFor1NATURELSFire2023": 0.458160650642769,
+    "fireLogLossFor1NATURELSFire2023": 1.117801115835382,
+    "ECE_binsFor1NATURELSFire2023": 59,
+    "ECE_valFor1NATURELSFire2023": 1.6757687634164102
+}
